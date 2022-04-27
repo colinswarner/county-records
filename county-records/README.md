@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-OneSharedStory is a non-profit organization that helps African American families connect with their ancestry. The organization transcribes historical documents, allowing families to search then search for information about their family history. To this point, these transcriptions have been housed in excel sheets. The goal of our project is to:
+OneSharedStory is a non-profit organization that helps African American families connect with their ancestry. The organization transcribes historical documents, allowing families to then search for information about their family history. To this point, these transcriptions have been housed in excel sheets. The goal of our project is to:
 
 1. Create a database to house previously transcribed data
 2. Create a software tool for future volunteers to transcribe data and have records entered into the database
